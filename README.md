@@ -6,13 +6,13 @@
 ### Languages & Tools
 ---
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,react,nodejs,tailwind,vscode,idea"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,react,nodejs,vite,tailwind,vscode,idea"/>
 </a>
 
 ### Currently learning
 ---
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,vite,tailwind" />
 </a>
 
 ### Featured Projects
