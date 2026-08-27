@@ -1,4 +1,4 @@
-## Hi there 👋
+## aughhh 👋🐱
 <p>
     I'm a third year IT student, enjoys game dev and web development. Planning to learn linux soon!
 </p>
